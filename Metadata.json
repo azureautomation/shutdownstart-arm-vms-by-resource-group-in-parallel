@@ -1,7 +1,7 @@
 {
     "Author": "Gisela Torres",
     "ContentSize": 1406,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/shutdownstart-arm-vms-by-resource-group-in-parallel./master/Shutdown-Start-ARM-VMs-Parallel.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/shutdownstart-arm-vms-by-resource-group-in-parallel/master/Shutdown-Start-ARM-VMs-Parallel.ps1",
     "DownloadCount": 4299,
     "Id": "ShutdownStart-ARM-VMs-by-3435f3a0",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "It shutdowns/starts ARM virtual machines by resource group in parallel.\u00a0It has two parameters: the service name and the action you want to perform (shutdown (true) or start (false) your VMs).You have to create a Credential Asset with the name\u00a0DefaultAzureCredential\u00a0in order t",
     "Title": "Shutdown/Start ARM VMs by Resource group in parallel.",
     "UpdatedDate": "2018-11-16T00:00:00",
-    "Url": "https://github.com/azureautomation/shutdownstart-arm-vms-by-resource-group-in-parallel.",
+    "Url": "https://github.com/azureautomation/shutdownstart-arm-vms-by-resource-group-in-parallel",
     "UserTags": "Utility, Windows Azure Virtual Machines, Azure Automation"
 }
